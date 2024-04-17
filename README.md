@@ -1,2 +1,2 @@
 # telaLogin
-uma tela de login responsiva simples...
+simple login
